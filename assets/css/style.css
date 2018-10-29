@@ -1,0 +1,31 @@
+body {
+    background-image: url(../images/seamless_paper_texture.png);
+}
+
+p {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000000;
+}
+
+label {
+    font-weight: bold;
+}
+
+.row {
+    padding-top: 30px;
+}
+
+.btn {
+    font-weight: bold;
+}
+
+.food-images {
+    display: inline-block;
+    padding: 0px 5px 15px;
+}
